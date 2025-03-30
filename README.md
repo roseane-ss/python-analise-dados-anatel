@@ -30,7 +30,8 @@ O objetivo principal é identificar padrões nas reclamações, avaliar o desemp
 
 ## 📊 Dashboard
 
-![Captura de tela 2025-03-30 174950](https://github.com/user-attachments/assets/1d3f4e28-fc51-4269-841a-060259c830f9)
+![Captura de tela 2025-03-30 174950](https://github.com/user-attachments/assets/1ebd357c-10dc-40c1-a251-568f50966eb1)
+
 
 
 ### Destaques do Dashboard:
