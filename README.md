@@ -51,4 +51,4 @@ Os dados brutos foram tratados em Python, incluindo:
 - Agrupamentos por prestadora, UF e tipo de serviço
 - Cálculo de indicadores como taxa de resolução e tempo médio de atendimento
 
-Os scripts estão disponíveis na pasta `/notebooks`.
+Os scripts estão disponíveis no arquivo `/Untitled3.md`.
