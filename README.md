@@ -32,7 +32,7 @@ O objetivo principal é identificar padrões nas reclamações, avaliar o desemp
 
 ![Captura de tela 2025-03-30 174950](https://github.com/user-attachments/assets/0d07df76-a463-4a0c-99bc-32ce2f92d5d5)
 
-
+https://app.powerbi.com/view?r=eyJrIjoiNjRkMTA0MDItZmRmYi00MjhlLWFmMzEtOWI5MjkxMzVjNjNmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 
 ### Destaques do Dashboard:
 
